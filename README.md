@@ -13,33 +13,31 @@ I'm a **Data Analyst** passionate about transforming data into actionable insigh
 ## 📊 Featured Projects
 
 ### Tableau Projects overview
-1. **[Sales Transaction Dashboard](https://public.tableau.com/views/SalesTransaction_17355096981760/SalesTransaction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+1. **[Sales Transaction Dashboard]**
    - **Description:** Interactive dashboard analyzing sales transactions, highlighting key performance indicators and sales trends.
    - **Features:**
      - Monthly and quarterly sales trends
      - Top-performing products and categories
      - Regional sales distribution
 
-2. **[Customer Demographic Dashboard](https://public.tableau.com/views/SalesTransaction_17355096981760/CustomerDemographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+2. **[Customer Demographic Dashboard]**
    - **Description:** Dashboard providing insights into customer demographics, helping to understand customer segments and behaviors.
    - **Features:**
      - Age and income distribution
      - Customer segmentation based on purchasing behavior
      - Geographic distribution of customers
-   - **Visualization:**
-     ![Customer Demographic Dashboard](./images/customer_demographic_dashboard.png)
+ 
 
 ### Google Colab Projects overview
-1. **[Sales Data Analysis and Visualization](https://colab.research.google.com/drive/1m9vAErsLAls6XfiCtebwL6obKWqyN7md?usp=sharing)**
+1. **[Sales Data Analysis and Visualization]**
    - **Description:** Comprehensive analysis of sales data, including data cleaning, exploratory data analysis, and visualization using Python libraries.
    - **Highlights:**
      - Data preprocessing and cleaning techniques
      - Visualizations using Matplotlib and Seaborn
      - Insights derived from sales trends and customer behavior
-   - **Notebook Preview:**
-     ![Sales Data Analysis](./images/sales_data_analysis.png)
 
-2. **[Predictive Modeling for Customer Churn](https://colab.research.google.com/drive/1Lh7x5hT7XPZfVtmkj-EYdXeOnBPl66W-?usp=sharing)**
+
+2. **[Predictive Modeling for Customer Churn]**
    - **Description:** Building and evaluating a predictive model to identify potential customer churn using machine learning algorithms.
    - **Highlights:**
      - Feature engineering and selection
