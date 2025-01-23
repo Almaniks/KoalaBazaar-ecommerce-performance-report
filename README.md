@@ -15,7 +15,7 @@ This repository showcases interactive sales dashboards built with Tableau and an
 
 ### Tableau Dashboard
 
-[![Sales Transaction Dashboard Preview](./images/dashboard_preview.png)](https://<your-username>.github.io/<repository-name>/)
+[![Sales Transaction Dashboard Preview](./images/dashboard_preview.png)](https://ALmaniks.github.io/<repository-name>/)
 
 ### Google Colab Notebooks
 
