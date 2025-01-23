@@ -1,31 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My Tableau Dashboard</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Tableau Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .dashboard-container {
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        @media (max-width: 800px) {
+            .dashboard-container iframe {
+                width: 100%;
+                height: 600px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>Interactive Tableau Dashboard</h1>
-    <div class='tableauPlaceholder' id='viz1737592815865' style='position: relative'>
-        <noscript>
-            <a href='#'>
-                <img alt='Sales Transaction' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SalesTransaction_17355096981760&#47;SalesTransaction&#47;1_rss.png' style='border: none' />
-            </a>
-        </noscript>
-        <object class='tableauViz' style='display:none;'>
-            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-            <param name='embed_code_version' value='3' />
-            <param name='site_root' value='' />
-            <param name='name' value='SalesTransaction_17355096981760&#47;SalesTransaction' />
-            <param name='tabs' value='no' />
-            <param name='toolbar' value='yes' />
-            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SalesTransaction_17355096981760&#47;SalesTransaction&#47;1.png' />
-            <param name='animate_transition' value='yes' />
-            <param name='display_static_image' value='yes' />
-            <param name='display_spinner' value='yes' />
-            <param name='display_overlay' value='yes' />
-            <param name='display_count' value='yes' />
-            <param name='language' value='en-US' />
-        </object>
+    <header>
+        <h1>Interactive Tableau Dashboard</h1>
+    </header>
+    <div class="dashboard-container">
+        <!-- Tableau Embed Code Start -->
+        <div class='tableauPlaceholder' id='viz1737592815865' style='position: relative; width: 100%; height: 927px;'>
+            <noscript>
+                <a href='#'>
+                    <img alt='Sales Transaction' src='https://public.tableau.com/static/images/Sa/SalesTransaction_17355096981760/SalesTransaction/1_rss.png' style='border: none;' />
+                </a>
+            </noscript>
+            <object class='tableauViz' style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='embed_code_version' value='3' />
+                <param name='site_root' value='' />
+                <param name='name' value='SalesTransaction_17355096981760/SalesTransaction' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https://public.tableau.com/static/images/Sa/SalesTransaction_17355096981760/SalesTransaction/1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+                <param name='language' value='en-US' />
+            </object>
+        </div>
+        <!-- Tableau Embed Code End -->
     </div>
     <script type='text/javascript'>
         var divElement = document.getElementById('viz1737592815865');
