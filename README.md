@@ -1,7 +1,8 @@
-# Hi 👋, I'm Almanik Suryo Kuncoro
+# Sales Dashboard Project
 
-## About Me
-I'm a **Data Analyst** passionate about transforming data into actionable insights. Proficient in **Python**, **SQL**, **Tableau**, and **Google Colab**, I enjoy leveraging these tools to solve complex data challenges and drive business decisions.
+## Overview
+
+This repository showcases interactive sales dashboards built with Tableau and analytical notebooks using Google Colab.
 
 ## 🔧 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
@@ -12,40 +13,18 @@ I'm a **Data Analyst** passionate about transforming data into actionable insigh
 
 ## 📊 Featured Projects
 
-### Tableau Projects overview
-1. **[Sales Transaction Dashboard]**
-   - **Description:** Interactive dashboard analyzing sales transactions, highlighting key performance indicators and sales trends.
-   - **Features:**
-     - Monthly and quarterly sales trends
-     - Top-performing products and categories
-     - Regional sales distribution
+### Tableau Dashboard
 
-2. **[Customer Demographic Dashboard]**
-   - **Description:** Dashboard providing insights into customer demographics, helping to understand customer segments and behaviors.
-   - **Features:**
-     - Age and income distribution
-     - Customer segmentation based on purchasing behavior
-     - Geographic distribution of customers
- 
+[![Sales Transaction Dashboard Preview](./images/dashboard_preview.png)](https://<your-username>.github.io/<repository-name>/)
 
-### Google Colab Projects overview
-1. **[Sales Data Analysis and Visualization]**
-   - **Description:** Comprehensive analysis of sales data, including data cleaning, exploratory data analysis, and visualization using Python libraries.
-   - **Highlights:**
-     - Data preprocessing and cleaning techniques
-     - Visualizations using Matplotlib and Seaborn
-     - Insights derived from sales trends and customer behavior
+### Google Colab Notebooks
 
+- **[Sales Data Analysis and Visualization](https://colab.research.google.com/drive/1m9vAErsLAls6XfiCtebwL6obKWqyN7md?usp=sharing)**
+  - Comprehensive analysis of sales data, including data cleaning, exploratory data analysis, and visualization using Python libraries.
 
-2. **[Predictive Modeling for Customer Churn]**
-   - **Description:** Building and evaluating a predictive model to identify potential customer churn using machine learning algorithms.
-   - **Highlights:**
-     - Feature engineering and selection
-     - Model training using Logistic Regression and Random Forest
-     - Model evaluation metrics and performance comparison
+- **[Predictive Modeling for Customer Churn](https://colab.research.google.com/drive/1Lh7x5hT7XPZfVtmkj-EYdXeOnBPl66W-?usp=sharing)**
+  - Building and evaluating a predictive model to identify potential customer churn using machine learning algorithms.
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/almaniksuryokuncoro)
 - [Email](mailto:your.email@example.com)
-
----
