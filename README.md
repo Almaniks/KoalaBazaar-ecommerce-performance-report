@@ -12,15 +12,13 @@ I'm a **Data Analyst** passionate about transforming data into actionable insigh
 
 ## 📊 Featured Projects
 
-### Tableau Projects
+### Tableau Projects overview
 1. **[Sales Transaction Dashboard](https://public.tableau.com/views/SalesTransaction_17355096981760/SalesTransaction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
    - **Description:** Interactive dashboard analyzing sales transactions, highlighting key performance indicators and sales trends.
    - **Features:**
      - Monthly and quarterly sales trends
      - Top-performing products and categories
      - Regional sales distribution
-   - **Visualization:**
-     ![Sales Transaction Dashboard](./images/sales_transaction_dashboard.png)
 
 2. **[Customer Demographic Dashboard](https://public.tableau.com/views/SalesTransaction_17355096981760/CustomerDemographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
    - **Description:** Dashboard providing insights into customer demographics, helping to understand customer segments and behaviors.
@@ -31,7 +29,7 @@ I'm a **Data Analyst** passionate about transforming data into actionable insigh
    - **Visualization:**
      ![Customer Demographic Dashboard](./images/customer_demographic_dashboard.png)
 
-### Google Colab Projects
+### Google Colab Projects overview
 1. **[Sales Data Analysis and Visualization](https://colab.research.google.com/drive/1m9vAErsLAls6XfiCtebwL6obKWqyN7md?usp=sharing)**
    - **Description:** Comprehensive analysis of sales data, including data cleaning, exploratory data analysis, and visualization using Python libraries.
    - **Highlights:**
@@ -47,8 +45,6 @@ I'm a **Data Analyst** passionate about transforming data into actionable insigh
      - Feature engineering and selection
      - Model training using Logistic Regression and Random Forest
      - Model evaluation metrics and performance comparison
-   - **Notebook Preview:**
-     ![Customer Churn Prediction](./images/customer_churn_prediction.png)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/almaniksuryokuncoro)
